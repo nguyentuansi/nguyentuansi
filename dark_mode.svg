@@ -52,7 +52,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Claude Code, VS Code</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TypeScript, Python, Rust, C#</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LLMs, RAG, Agents, ASR/TTS</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">LLMs, Agents, MCP, RAG, Voice AI</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Svelte, HTML, CSS, SQL, YAML</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Vietnamese, English</tspan>
 <tspan x="390" y="250" class="cc">. </tspan>
@@ -61,8 +61,9 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="310">- Contact -——————————————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">hi@nguyentuansi.com</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">github.com/nguyentuansi</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Ho Chi Minh City, Vietnam</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">UTC+7 (Asia/Ho_Chi_Minh)</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/nguyentuansi</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Ho Chi Minh City, Vietnam</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">UTC+7 (Asia/Ho_Chi_Minh)</tspan>
 <tspan x="390" y="450">- GitHub Stats -—————————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ... </tspan><tspan class="value" id="repo_data">218</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">320</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">2,618</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">17</tspan>
